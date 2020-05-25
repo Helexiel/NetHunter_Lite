@@ -1,3 +1,5 @@
+#NetHunter Lite by: Nuddle && Speatec System.
+
 #Como instalar:
 
 #curl -LO https://raw.githubusercontent.com/Helexiel/NetHunter_Lite/master/install-NetHunterLite.sh
